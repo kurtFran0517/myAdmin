@@ -77,7 +77,7 @@
 
             <div class="user-wrapper">
                 <i class="fa-solid fa-user-tie"></i>
-                <small>User Admin</small>
+                <small>kurtfrancisco</small>
             </div>
         </header>
 
