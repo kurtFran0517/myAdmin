@@ -77,7 +77,7 @@
 
             <div class="user-wrapper">
                 <i class="fa-solid fa-user-tie"></i>
-                <small>kurtfrancisco</small>
+                <small>User Admin</small>
             </div>
         </header>
 
@@ -90,7 +90,7 @@
                 </div>
                 <div>
                     <span>Registered Devices</span>
-                    <h4>3512</h4>
+                    <h4>10000000000000</h4>
             </div>
         </div>
             <div class="card-single">
