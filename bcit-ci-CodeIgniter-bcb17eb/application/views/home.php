@@ -90,7 +90,7 @@
                 </div>
                 <div>
                     <span>Registered Devices</span>
-                    <h4>10000000</h4>
+                    <h4>3512</h4>
             </div>
         </div>
             <div class="card-single">
